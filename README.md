@@ -1,9 +1,6 @@
 # Michael J. Komnick
 I'm Michael Komnick, a 6-12 STEM teacher. I have a B.S. in computer science from The University of the South. I'm also the former assistant director of [Sewanee DataLab](https://new.sewanee.edu/sewanee-datalab/) (2023 - 2024). Welcome to my GitHub page!
 
-## GitHub Organizations
-* [Sewanee DataLab](https://github.com/sewaneedata)
-
 ## Work Projects
 * [Student Well-being Dashboard](https://github.com/sewaneedata/wellbeing/wiki) - This is an interactive public dashboard that displays Sewanee student well-being trends and statistics. It was made during my Sewanee DataLab 2022 summer fellowship.
 
